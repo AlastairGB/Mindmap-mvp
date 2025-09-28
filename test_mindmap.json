@@ -1,0 +1,69 @@
+{
+  "root": "Mind Map",
+  "children": [
+    {
+      "node": "Cluster 5",
+      "children": [
+        "I need to plan my marketing strategy for the new p...",
+        "The target audience is millennials"
+      ]
+    },
+    {
+      "node": "Cluster 9",
+      "children": [
+        "We should focus on social media marketing"
+      ]
+    },
+    {
+      "node": "Cluster 1",
+      "children": [
+        "especially TikTok"
+      ]
+    },
+    {
+      "node": "Cluster 6",
+      "children": [
+        "Instagram",
+        "I should also research competitor strategies"
+      ]
+    },
+    {
+      "node": "Cluster 8",
+      "children": [
+        "The budget needs to be allocated between paid ads",
+        "influencer partnerships"
+      ]
+    },
+    {
+      "node": "Cluster 7",
+      "children": [
+        "I also want to consider email marketing campaigns",
+        "conversion rates"
+      ]
+    },
+    {
+      "node": "Cluster 3",
+      "children": [
+        "SEO optimization",
+        "so we have time to prepare",
+        "The product features include AI integration"
+      ]
+    },
+    {
+      "node": "Cluster 4",
+      "children": [
+        "Gen Z consumers",
+        "The launch date is set for next quarter"
+      ]
+    },
+    {
+      "node": "Cluster 2",
+      "children": [
+        "We need to track metrics like engagement rates",
+        "market trends",
+        "mobile-first design",
+        "Customer feedback from beta testing was very posit..."
+      ]
+    }
+  ]
+}
