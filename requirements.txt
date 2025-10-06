@@ -1,4 +1,26 @@
+# Core dependencies
 requests>=2.28.0
 scikit-learn>=1.1.0
 numpy>=1.21.0
+
+# FastAPI and web framework dependencies
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+python-dotenv>=1.0.0
+
+# Database dependencies
+sqlmodel>=0.0.14
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+
+# Optional database drivers (uncomment as needed)
+# psycopg2-binary>=2.9.0  # PostgreSQL
+# pymysql>=1.1.0          # MySQL
+# aiomysql>=0.2.0          # Async MySQL
+
+# Development dependencies
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+httpx>=0.25.0
 
